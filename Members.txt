@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 86
  
 AHMED MUNSHEY 
+ 
+hello
+ 
+Role in project: annoyance
+ 
+Preferred branch of engineering: TBA
 
 BOWEN JIANG 
 
@@ -8,10 +14,3 @@ AMIT ANTHONY DAS
 
 FARUK AHMIC 
 
-YOUR NAME
- 
-Brief introduction
- 
-Role in project: (e.g. team leader, assignment uploader, programmer, etc)
- 
-Preferred branch of engineering: (e.g. civil, mechanical, etc)
